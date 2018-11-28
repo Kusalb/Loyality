@@ -1,0 +1,2 @@
+# Loyality
+Django project 
